@@ -16,6 +16,6 @@ int main() {
     for (int i = 2; i <= 20; i++) {
         result = lcm(result, i);
     }
-    printf("The smallest positive number that is evenly divisible by all of the numbers from 1 to 20 is %d\n", result);
+    printf("The smallest positive num that is evenly divisible by all of the numbers from 1 to 20 is %d\n", result);
     return 0;
 }
