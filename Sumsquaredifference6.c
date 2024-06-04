@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main() { 
     int sumofsquares = 0;
     int squareofsum = 0;
     int i;
