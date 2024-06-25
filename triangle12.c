@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-
 int main() {
     // Define the 100 50-digit numbers as strings
     const char *numbers[] = {
