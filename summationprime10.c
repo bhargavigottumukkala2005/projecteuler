@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int is_prime(int num) {
     if (num < 2) return 0;
     int count = 0;
