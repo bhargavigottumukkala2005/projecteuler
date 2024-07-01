@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 unsigned int collatz_sequence_length(unsigned long long n) {
     unsigned int length = 1;
     while (n != 1) {
